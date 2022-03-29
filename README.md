@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**It's PeachAlda/PeachAlda**   
+**It's PeachAlda😜**   
 
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning Java and Web development
